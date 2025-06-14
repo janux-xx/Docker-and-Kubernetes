@@ -21,5 +21,6 @@
 **/obj
 **/secrets.dev.yaml
 **/values.dev.yaml
+**/T04-01 Push Express site to Docker Hub
 LICENSE
 README.md
