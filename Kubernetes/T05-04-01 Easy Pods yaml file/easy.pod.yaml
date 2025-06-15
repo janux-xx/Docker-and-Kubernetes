@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+
+metadata:
+  name:  my-ngnix
+
+spec:
+  containers:
+  - name:  my-nginx
+    image:  janux666/ngnix:v1
+    
+  
